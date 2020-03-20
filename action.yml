@@ -1,0 +1,10 @@
+name: 'My-Blender-Robo'
+description: 'learning blender and creating a robot model '
+author: 'anandprabhakar0507 <anandprabhakar0507@gmail.com>'
+branding:
+  icon: 'https://avatars3.githubusercontent.com/u/34664521?u=94dedec59a36256aa8a136620972a3810c790038&v=4'
+  color: 'transparent'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
